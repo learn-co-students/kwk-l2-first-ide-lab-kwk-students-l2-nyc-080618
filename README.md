@@ -7,7 +7,7 @@
 
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/T7PVTSkleAk" frameborder="0"
-  allow="autoplay; encrypted-media" allowfullscreen></iframe><p><a
+  allow="autoplay; encrypted-media" allowfullscreen></iframe><p><ale
   href="https://youtu.be/T7PVTSkleAk">First IDE Lab</a></p>
 
   <h1>Instructions</h1>
